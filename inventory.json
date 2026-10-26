@@ -1,6 +1,6 @@
 {
   "dealership": "Coastal Ford Burnaby",
-  "generated_at": "2026-10-25T23:05:26",
+  "generated_at": "2026-10-25T23:32:29",
   "vehicle_count": 639,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1298,7 +1298,7 @@
       "vin": "1FTFW1RG8TFA90952",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/new/aa3f0bcb68f1.html",
       "condition": "new",
-      "price": 132710.0,
+      "price": 124710.0,
       "price_currency": "CAD"
     },
     {
@@ -1314,7 +1314,7 @@
       "vin": "1FTFW1RG9TFB41973",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/new/6c979ec30b26.html",
       "condition": "new",
-      "price": 132185.0,
+      "price": 124185.0,
       "price_currency": "CAD"
     },
     {
