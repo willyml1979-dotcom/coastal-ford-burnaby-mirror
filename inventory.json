@@ -1,6 +1,6 @@
 {
   "dealership": "Coastal Ford Burnaby",
-  "generated_at": "2026-10-25T13:48:14",
+  "generated_at": "2026-10-25T23:05:26",
   "vehicle_count": 639,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -5140,7 +5140,7 @@
       "make": "Kia",
       "model": "SORENTO HYBRID",
       "condition": "used",
-      "price": 45500.0,
+      "price": 45000.0,
       "price_currency": "CAD"
     },
     {
