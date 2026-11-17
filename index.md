@@ -1,6 +1,6 @@
 # Coastal Ford Burnaby
 
- dealership in Burnaby. AI-readable inventory mirror, about 637 vehicles.
+ dealership in Burnaby. AI-readable inventory mirror, about 584 vehicles.
 
 - Official website: https://www.coastalfordburnaby.com/en
 - Used vehicles: https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/used/
