@@ -1,7 +1,7 @@
 {
   "dealership": "Coastal Ford Burnaby",
-  "generated_at": "2026-10-26T08:09:01",
-  "vehicle_count": 638,
+  "generated_at": "2026-11-17T08:51:34",
+  "vehicle_count": 637,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -4894,28 +4894,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Honda FIT",
-      "vin": "3HGGK5H87FM103777",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/used/e83b901d8add.html",
-      "year": 2015,
-      "make": "Honda",
-      "model": "FIT",
-      "condition": "used",
-      "price": 18800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Ford ESCAPE",
-      "vin": "1FMCU9GD7HUC15289",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/used/ce2428f9ee2c.html",
-      "year": 2017,
-      "make": "Ford",
-      "model": "ESCAPE",
-      "condition": "used",
-      "price": 12800.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Ford F-150",
       "vin": "1FTFW1E19JFE17177",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/used/5972877e911b.html",
@@ -4923,73 +4901,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 35888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Mazda CX-5",
-      "vin": "JM3KFBDM6J0378803",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/used/94d8b3929ee7.html",
-      "year": 2018,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used",
-      "price": 25000.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford F-150",
-      "vin": "1FTEW1E40KKC63392",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/used/4b3892afa140.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 28000.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Toyota COROLLA",
-      "vin": "5YFBPRBE0LP116150",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/used/39a9bd61e198.html",
-      "year": 2020,
-      "make": "Toyota",
-      "model": "COROLLA",
-      "condition": "used",
-      "price": 19000.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Ford EXPLORER",
-      "vin": "1FMSK8DH0MGA53131",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/used/3e11ee7b8b3d.html",
-      "year": 2021,
-      "make": "Ford",
-      "model": "EXPLORER",
-      "condition": "used",
-      "price": 30500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford F-150",
-      "vin": "1FTFW1ED6NFB81765",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/used/1ee1e70060b9.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 38500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford F-150",
-      "vin": "1FTFW1ED1NFA55426",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/used/8f9c0f97c69b.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 51500.0,
+      "price": 35000.0,
       "price_currency": "CAD"
     },
     {
@@ -5000,18 +4912,40 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 50500.0,
+      "price": 49000.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Ford ESCAPE",
-      "vin": "1FMCU9G60NUB43185",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/used/750d39400439.html",
+      "name": "2022 Ford F-150",
+      "vin": "1FTFW1ED5NFB74743",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/used/b94d70781e15.html",
       "year": 2022,
       "make": "Ford",
-      "model": "ESCAPE",
+      "model": "F-150",
       "condition": "used",
-      "price": 23800.0,
+      "price": 48000.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Ford SUPER DUTY F-350 SRW",
+      "vin": "1FT8W3BT3NEF69686",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/used/d3b8cb6d2485.html",
+      "year": 2022,
+      "make": "Ford",
+      "model": "Super Duty",
+      "condition": "used",
+      "price": 77500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Ford SUPER DUTY F-350 SRW",
+      "vin": "1FT8W3BTXNEF17813",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/used/3143de80466e.html",
+      "year": 2022,
+      "make": "Ford",
+      "model": "Super Duty",
+      "condition": "used",
+      "price": 64000.0,
       "price_currency": "CAD"
     },
     {
@@ -5022,7 +4956,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 44000.0,
+      "price": 41000.0,
       "price_currency": "CAD"
     },
     {
@@ -5033,29 +4967,62 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 44500.0,
+      "price": 42000.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Ford F-150 LIGHTNING",
-      "vin": "1FTVW1EL2PWG20255",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/used/ddacf70af538.html",
+      "name": "2023 Ford BRONCO SPORT",
+      "vin": "3FMCR9D91PRE17861",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/used/a41db8263d45.html",
       "year": 2023,
       "make": "Ford",
-      "model": "F-150 LIGHTNING",
+      "model": "BRONCO SPORT",
       "condition": "used",
-      "price": 51800.0,
+      "price": 34000.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Buick ENCORE GX",
-      "vin": "KL4AMGSL8RB004253",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/used/d8e5bba0efe6.html",
-      "year": 2024,
-      "make": "Buick",
-      "model": "ENCORE GX",
+      "name": "2023 Ford BRONCO SPORT",
+      "vin": "3FMCR9B68PRD29608",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/used/57e04aed9ae3.html",
+      "year": 2023,
+      "make": "Ford",
+      "model": "BRONCO SPORT",
       "condition": "used",
-      "price": 28500.0,
+      "price": 27800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Ford F-150",
+      "vin": "1FTFW1RJ3PFC69692",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/used/45cf909c5df1.html",
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 134980.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Ford BRONCO",
+      "vin": "1FMEE5DP8PLB08740",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/used/fe75cb26fbbd.html",
+      "year": 2023,
+      "make": "Ford",
+      "model": "BRONCO",
+      "condition": "used",
+      "price": 45800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 BMW M4",
+      "vin": "WBS33BA08RCN53482",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/used/fa4765e0ce64.html",
+      "year": 2024,
+      "make": "BMW",
+      "model": "M4",
+      "condition": "used",
+      "price": 99800.0,
       "price_currency": "CAD"
     },
     {
@@ -5066,7 +5033,7 @@
       "make": "Ford",
       "model": "BRONCO",
       "condition": "used",
-      "price": 44000.0,
+      "price": 42000.0,
       "price_currency": "CAD"
     },
     {
@@ -5077,7 +5044,7 @@
       "make": "Ford",
       "model": "BRONCO",
       "condition": "used",
-      "price": 49500.0,
+      "price": 48500.0,
       "price_currency": "CAD"
     },
     {
@@ -5088,7 +5055,7 @@
       "make": "Ford",
       "model": "ESCAPE",
       "condition": "used",
-      "price": 29000.0,
+      "price": 28500.0,
       "price_currency": "CAD"
     },
     {
@@ -5099,7 +5066,7 @@
       "make": "Ford",
       "model": "BRONCO",
       "condition": "used",
-      "price": 59800.0,
+      "price": 54500.0,
       "price_currency": "CAD"
     },
     {
@@ -5110,29 +5077,29 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 49500.0,
+      "price": 49000.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Ford F-150",
-      "vin": "1FTFW5LD6SFB96143",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/used/55a402809b3e.html",
+      "name": "2025 Ford MUSTANG MACH-E",
+      "vin": "3FMTK1S59SMA01617",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/used/d300ae4ae6d2.html",
       "year": 2025,
       "make": "Ford",
-      "model": "F-150",
+      "model": "MUSTANG MACH-E",
       "condition": "used",
-      "price": 69980.0,
+      "price": 41980.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Kia SORENTO HYBRID",
-      "vin": "KNDRHDJG0S5356179",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/used/591a8943675e.html",
+      "name": "2025 Ford F-150 LIGHTNING",
+      "vin": "1FT6W3L70SWG02755",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/used/61a44383af6c.html",
       "year": 2025,
-      "make": "Kia",
-      "model": "SORENTO HYBRID",
+      "make": "Ford",
+      "model": "F-150 LIGHTNING",
       "condition": "used",
-      "price": 45000.0,
+      "price": 79800.0,
       "price_currency": "CAD"
     },
     {
@@ -5143,7 +5110,18 @@
       "make": "Ford",
       "model": "MUSTANG",
       "condition": "used",
-      "price": 69980.0,
+      "price": 66500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Ford EXPLORER",
+      "vin": "1FMWK8JC7TGA84465",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/used/eb5f27634a16.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "EXPLORER",
+      "condition": "used",
+      "price": 64000.0,
       "price_currency": "CAD"
     },
     {
@@ -5154,7 +5132,7 @@
       "make": "Ford",
       "model": "MAVERICK",
       "condition": "used",
-      "price": 49980.0,
+      "price": 49000.0,
       "price_currency": "CAD"
     },
     {
@@ -5165,7 +5143,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 80800.0,
+      "price": 79000.0,
       "price_currency": "CAD"
     },
     {
@@ -5176,7 +5154,18 @@
       "make": "Ford",
       "model": "BRONCO SPORT",
       "condition": "used",
-      "price": 46980.0,
+      "price": 44000.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Ford MAVERICK",
+      "vin": "3FTTW8S37TRA33504",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-burnaby-mirror/used/2b0e2f24f427.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "MAVERICK",
+      "condition": "used",
+      "price": 48500.0,
       "price_currency": "CAD"
     },
     {
@@ -5187,7 +5176,7 @@
       "make": "Kia",
       "model": "SPORTAGE",
       "condition": "used",
-      "price": 33000.0,
+      "price": 31500.0,
       "price_currency": "CAD"
     }
   ]
